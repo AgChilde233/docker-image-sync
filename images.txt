@@ -1,3 +1,2 @@
-vllm/vllm-openai:v0.10.2
-rustdesk/rustdesk-server:latest
+openjdk:8-jdk-slim
 # 此处一定要有一行空行
