@@ -1,2 +1,2 @@
-docker.io/openjdk:8-jre-slim
+openjdk:8u432-jre-slim
 # 此处一定要有一行空行
